@@ -70,7 +70,7 @@ A collection of Python practice programs, notes, and exercises as I learn Python
 
 ## 🐍 My Contributions
 
-Snake animation will be added later.
+![GitHub Snake Animation](https://raw.githubusercontent.com/rejwaan/rejwaan/output/github-snake-dark.svg)
 
 ---
 
