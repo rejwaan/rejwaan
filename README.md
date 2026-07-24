@@ -1,5 +1,11 @@
 # Hi, I'm Rejwan 👋
 
+## 🐍 My Contributions
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/rejwaan/rejwaan/output/github-snake-dark.svg)
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a Diploma student in Computer Science and Technology from Bangladesh.
@@ -68,11 +74,6 @@ A collection of Python practice programs, notes, and exercises as I learn Python
 
 ---
 
-## 🐍 My Contributions
-
-![GitHub Snake Animation](https://raw.githubusercontent.com/rejwaan/rejwaan/output/github-snake-dark.svg)
-
----
 
 ## 🌐 Connect With Me
 
