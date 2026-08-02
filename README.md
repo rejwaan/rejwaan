@@ -10,9 +10,7 @@
 
 I'm a Diploma student in Computer Science and Technology from Bangladesh.
 
-- 🌱 Currently learning **Frontend Development**, **Python**, and **Git/GitHub**
-- 💻 Daily OS: **Ubuntu Linux**
-- 🎯 Goal: Become an **AI Engineer** with a strong Full-Stack foundation
+- 🎯 Goal: Become an **AI Engineer** 
 - 🚀 Passionate about Open Source, Clean Code, and Continuous Learning
 
 ---
@@ -29,7 +27,7 @@ I'm a Diploma student in Computer Science and Technology from Bangladesh.
 ### Frameworks & Libraries
 
 - Tailwind CSS
-- React (Learning)
+- React 
 
 ### Tools
 
@@ -50,27 +48,7 @@ I'm a Diploma student in Computer Science and Technology from Bangladesh.
 
 ## 🔥 Featured Projects
 
-### 📌 Git Learning
-
-A repository where I practice Git and GitHub concepts with hands-on examples.
-
-**Tech:** Git, GitHub, Markdown
-
----
-
-### 📌 JavaScript Learning
-
-My personal JavaScript learning journey with notes, exercises, and practice projects.
-
-**Tech:** JavaScript, HTML, CSS
-
----
-
-### 📌 Python Learning
-
-A collection of Python practice programs, notes, and exercises as I learn Python from the basics.
-
-**Tech:** Python
+> Coming soon...
 
 ---
 
