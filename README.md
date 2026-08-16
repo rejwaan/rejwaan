@@ -55,6 +55,5 @@ I'm a Diploma student in Computer Science and Technology from Bangladesh.
 
 ## 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.rejwan.3701/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rezesu8)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rejwan07)
+[![Facebook](https://img.shields.io/badge/Facebook-0D47A1?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.rejwan.3701/)
+[![Telegram](https://img.shields.io/badge/Telegram-8E44AD?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rejwan07)
